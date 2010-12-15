@@ -1,0 +1,5 @@
+C:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamTinHoc\DTO\bin\Debug\DTO.dll
+C:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamTinHoc\DTO\bin\Debug\DTO.pdb
+C:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamTinHoc\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamTinHoc\DTO\obj\Debug\DTO.dll
+C:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamTinHoc\DTO\obj\Debug\DTO.pdb
