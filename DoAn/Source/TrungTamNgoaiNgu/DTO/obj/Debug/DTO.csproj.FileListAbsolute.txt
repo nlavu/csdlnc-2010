@@ -3,3 +3,13 @@ C:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamTinHoc\DTO\bin\Debu
 C:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamTinHoc\DTO\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamTinHoc\DTO\obj\Debug\DTO.dll
 C:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamTinHoc\DTO\obj\Debug\DTO.pdb
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\DTO\bin\Debug\DTO.dll
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\DTO\bin\Debug\DTO.pdb
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\DTO\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\DTO\obj\Debug\DTO.dll
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\DTO\obj\Debug\DTO.pdb
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DTO\bin\Debug\DTO.dll
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DTO\bin\Debug\DTO.pdb
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DTO\obj\Debug\DTO.dll
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DTO\obj\Debug\DTO.pdb

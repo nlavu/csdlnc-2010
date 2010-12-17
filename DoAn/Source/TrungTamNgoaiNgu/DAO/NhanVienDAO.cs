@@ -96,8 +96,8 @@ namespace DAO
                 List<SqlParameter> sqlParams = new List<SqlParameter>();
                 sqlParams.Add(new SqlParameter("@maNhanVien", nv.maNhanVien));
 
-                int n = SqlDataAccessHelper.ExecuteNoneQuery("sp_NhanVien_IsNhanVienExist", sqlParams);
-                if (n == 0)
+                DataTable table = SqlDataAccessHelper.ExecuteQuery("sp_NhanVien_IsNhanVienExist", sqlParams);
+                if (table.Rows.Count == 0)
                     result = true;
             }
             catch (Exception ex)
