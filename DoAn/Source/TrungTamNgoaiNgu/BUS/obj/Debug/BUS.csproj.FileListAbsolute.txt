@@ -1,0 +1,18 @@
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\BUS\bin\Debug\BUS.dll
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\BUS\bin\Debug\BUS.pdb
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\BUS\bin\Debug\DAO.dll
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\BUS\bin\Debug\DTO.dll
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\BUS\bin\Debug\DAO.pdb
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\BUS\bin\Debug\DTO.pdb
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\BUS\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\BUS\obj\Debug\BUS.dll
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\BUS\obj\Debug\BUS.pdb
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\BUS\bin\Debug\BUS.dll
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\BUS\bin\Debug\BUS.pdb
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\BUS\bin\Debug\DAO.dll
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\BUS\bin\Debug\DTO.dll
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\BUS\bin\Debug\DAO.pdb
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\BUS\bin\Debug\DTO.pdb
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\BUS\obj\Debug\BUS.dll
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\BUS\obj\Debug\BUS.pdb

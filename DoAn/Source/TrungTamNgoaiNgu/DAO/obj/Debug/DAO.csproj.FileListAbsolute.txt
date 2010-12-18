@@ -1,0 +1,14 @@
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\DAO\bin\Debug\DAO.dll
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\DAO\bin\Debug\DAO.pdb
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\DAO\bin\Debug\DTO.dll
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\DAO\bin\Debug\DTO.pdb
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\DAO\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\DAO\obj\Debug\DAO.dll
+c:\Users\lntrung\Desktop\hk7\CSDL NC\Do an\TH\Source\TrungTamNgoaiNgu\DAO\obj\Debug\DAO.pdb
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DAO\bin\Debug\DAO.dll
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DAO\bin\Debug\DAO.pdb
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DAO\bin\Debug\DTO.dll
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DAO\bin\Debug\DTO.pdb
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DAO\obj\Debug\DAO.dll
+C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DAO\obj\Debug\DAO.pdb
