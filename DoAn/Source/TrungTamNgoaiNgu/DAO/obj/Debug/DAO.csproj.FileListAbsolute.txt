@@ -12,3 +12,10 @@ C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DAO\bin\Debug\DTO.pdb
 C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DAO\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DAO\obj\Debug\DAO.dll
 C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DAO\obj\Debug\DAO.pdb
+D:\KhacAnh\pttkhttt\CSDL NC\TTNN\DAO\bin\Debug\DAO.dll
+D:\KhacAnh\pttkhttt\CSDL NC\TTNN\DAO\bin\Debug\DAO.pdb
+D:\KhacAnh\pttkhttt\CSDL NC\TTNN\DAO\bin\Debug\DTO.dll
+D:\KhacAnh\pttkhttt\CSDL NC\TTNN\DAO\bin\Debug\DTO.pdb
+D:\KhacAnh\pttkhttt\CSDL NC\TTNN\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\KhacAnh\pttkhttt\CSDL NC\TTNN\DAO\obj\Debug\DAO.dll
+D:\KhacAnh\pttkhttt\CSDL NC\TTNN\DAO\obj\Debug\DAO.pdb

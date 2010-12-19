@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>9.0.30729</ProductVersion>
+    <ProductVersion>9.0.21022</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{669A4509-9AE5-4FFF-BEF2-C44833EEEAD9}</ProjectGuid>
     <OutputType>Library</OutputType>
@@ -47,9 +47,11 @@
   <ItemGroup>
     <Compile Include="DangKyHocDTO.cs" />
     <Compile Include="HocVienDTO.cs" />
+    <Compile Include="KyThiDTO.cs" />
     <Compile Include="LopMoDTO.cs" />
     <Compile Include="NhanVienDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThiSinhDTO.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

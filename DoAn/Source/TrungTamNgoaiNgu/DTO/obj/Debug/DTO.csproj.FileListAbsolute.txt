@@ -13,3 +13,8 @@ C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DTO\bin\Debug\DTO.pdb
 C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DTO\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DTO\obj\Debug\DTO.dll
 C:\Users\dung\Desktop\CSDL NC\TrungTamNgoaiNgu\DTO\obj\Debug\DTO.pdb
+D:\KhacAnh\pttkhttt\CSDL NC\TTNN\DTO\bin\Debug\DTO.dll
+D:\KhacAnh\pttkhttt\CSDL NC\TTNN\DTO\bin\Debug\DTO.pdb
+D:\KhacAnh\pttkhttt\CSDL NC\TTNN\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\KhacAnh\pttkhttt\CSDL NC\TTNN\DTO\obj\Debug\DTO.dll
+D:\KhacAnh\pttkhttt\CSDL NC\TTNN\DTO\obj\Debug\DTO.pdb
