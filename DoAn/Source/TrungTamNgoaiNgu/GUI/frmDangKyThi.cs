@@ -66,7 +66,7 @@ namespace GUI
            txtHoTen.Text = "";
            txtSoDT.Text = "";
         }
-        private void Form1_Load(object sender, EventArgs e)
+        private void frmDangKyThi_Load(object sender, EventArgs e)
         {
             
         }
